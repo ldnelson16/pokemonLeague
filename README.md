@@ -4,16 +4,15 @@
 
 To play, follow the commands
 
-```bash
 
-git clone https://github.com/your-username/umich-atlas-scraper.git
-cd umich-atlas-scraper
-make main.exe
+  git clone https://github.com/your-username/umich-atlas-scraper.git
+  cd umich-atlas-scraper
+  make main.exe
+  
+  ./main.exe __yourtrainer__.txt __yourleague__.txt
+  OR
+  ./main.exe ash.txt justiceleague.txt
 
-./main.exe __yourtrainer__.txt __yourleague__.txt
-OR
-./main.exe ash.txt justiceleague.txt
-```	
 
 ## How to Customize
 
