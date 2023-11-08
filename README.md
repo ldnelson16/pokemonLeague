@@ -4,7 +4,7 @@
 
 To play, follow the commands
 
-  ```
+  ```bash
   git clone https://github.com/your-username/umich-atlas-scraper.git
   cd umich-atlas-scraper
   make main.exe
