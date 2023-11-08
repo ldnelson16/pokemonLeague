@@ -13,6 +13,7 @@ To play, follow the commands
 	./main.exe __yourtrainer__.txt __yourleague__.txt
 	OR
 	./main.exe ash.txt justiceleague.txt
+	```	
 
 ## How to Customize
 
